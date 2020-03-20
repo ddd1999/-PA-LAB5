@@ -1,6 +1,8 @@
 # -PA-LAB5
 Laboratorul 5 de la Programare avansata
 
+**Nu am reusit sa termin toata partea compulsory, m-am blocat la metoda view**
+
 This is an application that can manage a catalog of documents.
 In the catalog, documents can be added. Documents have an ID which can be used to find them in the catalog.
 Each document has a unique ID, a name and may have additional tags, which are pairs name-value. 
